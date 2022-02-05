@@ -100742,7 +100742,19 @@
         "twitter": "https://twitter.com/aos_NFT",
         "website": "https://apeson.space"
       }
-    }
+    },
+    {
+      "chainId": 101,
+      "address": "GCcf1qi8zpZ96eqmT9BbPxkS2jytX4K8xzNB2kyYi1nb",
+      "symbol": "MCZT",
+      "name": "MCZ test Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/mcz73/mcztest/main/glaube-an-dich.png",
+      "tags": [
+        "nft-token",
+        "community-token"
+      ]
+      }
   ],
   "version": {
     "major": 0,
